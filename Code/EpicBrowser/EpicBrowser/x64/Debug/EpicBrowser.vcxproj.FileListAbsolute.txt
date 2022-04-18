@@ -1,0 +1,5 @@
+D:\VS Projects\EpicBrowser\EpicBrowser\x64\Debug\EpicBrowser.vcxproj.AssemblyReference.cache
+D:\VS Projects\EpicBrowser\EpicBrowser\x64\Debug\EpicBrowser.vcxproj.SuggestedBindingRedirects.cache
+D:\VS Projects\EpicBrowser\EpicBrowser\x64\Debug\EpicBrowser.MyForm.resources
+D:\VS Projects\EpicBrowser\EpicBrowser\x64\Debug\EpicBrowser.vcxproj.GenerateResource.cache
+D:\VS Projects\EpicBrowser\EpicBrowser\x64\Debug\EpicBrowser.AboutInfo.resources
